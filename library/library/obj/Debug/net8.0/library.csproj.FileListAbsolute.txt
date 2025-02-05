@@ -1,0 +1,15 @@
+C:\C# lesson\library\library\bin\Debug\net8.0\library.exe
+C:\C# lesson\library\library\bin\Debug\net8.0\library.deps.json
+C:\C# lesson\library\library\bin\Debug\net8.0\library.runtimeconfig.json
+C:\C# lesson\library\library\bin\Debug\net8.0\library.dll
+C:\C# lesson\library\library\bin\Debug\net8.0\library.pdb
+C:\C# lesson\library\library\obj\Debug\net8.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# lesson\library\library\obj\Debug\net8.0\library.AssemblyInfoInputs.cache
+C:\C# lesson\library\library\obj\Debug\net8.0\library.AssemblyInfo.cs
+C:\C# lesson\library\library\obj\Debug\net8.0\library.csproj.CoreCompileInputs.cache
+C:\C# lesson\library\library\obj\Debug\net8.0\library.dll
+C:\C# lesson\library\library\obj\Debug\net8.0\refint\library.dll
+C:\C# lesson\library\library\obj\Debug\net8.0\library.pdb
+C:\C# lesson\library\library\obj\Debug\net8.0\library.genruntimeconfig.cache
+C:\C# lesson\library\library\obj\Debug\net8.0\ref\library.dll
+C:\C# lesson\library\library\obj\Debug\net8.0\library.sourcelink.json

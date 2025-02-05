@@ -32,5 +32,7 @@ public class User
         UserName = userName;
         Password = password;
         UserRole = role;
+        BorrowedBooks = new List<Book>();
     }
+
 }
